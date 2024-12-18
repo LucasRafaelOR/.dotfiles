@@ -10,6 +10,6 @@ return {
   keys = {
     { '<leader>gg', '<cmd>:Neogit<CR>', desc = 'Neo[G]it buffer' },
     { '<leader>gs', '<cmd>:Neogit kind=split<CR>', desc = 'Neogit buffer on [S]plit' },
-    { '<leader>gc', '<cmd>:Neogit commit', desc = 'Neogit [C]ommit' },
+    { '<leader>gc', '<cmd>:Neogit commit<CR>', desc = 'Neogit [C]ommit' },
   },
 }
